@@ -1,1 +1,2 @@
-This is a simple reading file
+This is a simple reading file.
+We are going to edit this file.
